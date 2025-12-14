@@ -20,8 +20,8 @@ pip install matplotlib
 
 ## Clone Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Staryo40/Aspos_Eclipse_Calculations.git
+cd Aspos_Eclipse_Calculations
 ```
 
 Struktur Proyek
